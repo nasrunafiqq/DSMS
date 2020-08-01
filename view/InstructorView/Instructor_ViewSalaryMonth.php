@@ -86,7 +86,7 @@ try{
         ?>
         <form method="POST">
           <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
-            <table style="margin-left: 600px;margin-right: auto;width: 800px;margin-top: 40px;">
+            <table style="margin-left: 600px;margin-right: auto;width: 600px;margin-top: 40px;">
               <tr>
                 <td style="text-align: center;padding-right: 20px;" colspan="2"><h3>View Salary Monthly</h3></td>
               </tr>
@@ -104,7 +104,7 @@ try{
                 <td></td>
               </tr>
             </table>
-			<button style="margin-left: 500%" type="submit" name="print" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent" onclick="window.print();">Print Slip</button>
+			<button style="margin-left: 430%" type="submit" name="print" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent" onclick="window.print();">Print Slip</button>
           </div>
         </form>
 
