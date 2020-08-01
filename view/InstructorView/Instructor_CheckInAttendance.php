@@ -56,7 +56,6 @@ $SID = $resultStudID['instructorID'];
       <a class="mdl-navigation__link" href="../InstructorView/Instructor_ViewTimetable.php">TIMETABLE</a>
       <a class="mdl-navigation__link" href="" style="pointer-events: none">SALARY</a>
       <a class="mdl-navigation__link" href="../InstructorView/ViewSalaryMonth.php">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;View Salary Monthly</a>
-      <a class="mdl-navigation__link" href="../InstructorView/Instructor_ViewSalaryLog.php">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;View Salary</a>
       <a class="mdl-navigation__link" href="../InstructorView/Instructor_CheckInAttendance.php">ATTENDANCE</a>
      
     </nav>
