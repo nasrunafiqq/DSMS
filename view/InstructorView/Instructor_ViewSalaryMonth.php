@@ -103,6 +103,7 @@ try{
                 <td></td>
               </tr>
             </table>
+			<button style="margin-left: 500%" type="submit" name="print" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent" onclick="window.print();">Print Slip</button>
           </div>
         </form>
 
