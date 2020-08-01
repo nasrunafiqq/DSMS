@@ -119,9 +119,9 @@ try{
             <tbody>
               <?php foreach ($dbInstructor->displaySalarySlip() as $datas) { ?>
               <tr>
-              <?php echo $datas->salaryDetails; ?></td>
-              <?php echo $datas->amount; ?></td>
-                <?php echo $datas->status; ?></td>
+              <td><?php echo $datas->salaryDetails; ?></td>
+              <td><?php echo $datas->amount; ?></td>
+                <td><?php echo $datas->status; ?></td>
               </tr>
               <?php }?>
             
