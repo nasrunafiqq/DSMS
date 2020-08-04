@@ -120,8 +120,7 @@ try{
               <?php foreach ($dbInstructor->displaySalarySlip() as $datas) { ?>
               <tr>
               <td><?php echo $datas->salaryDetails; ?></td>
-              <td><?php echo $datas->amount; ?></td>
-                <td><?php echo $datas->status; ?></td>
+              <td><?php echo $datas->amount; ?><?php echo $datas->status; ?></td>
               </tr>
               <?php }?>
             
