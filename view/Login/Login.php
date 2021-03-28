@@ -40,6 +40,7 @@ include '../../model/UserModel/LoginModel.php';
 								</select>
 							</div>
 						</fieldset>
+<!--                        test-->
 						<?php if(isset($fmsg)){ ?> <div role="alert" style="color: red; font-weight: 20px; text-align: center;"> <?php echo $fmsg; ?> </div><?php } ?>
 						<div style="margin-top: 5px" align="center">
 							<button type="submit" name="login" class="btn btn-md btn-success" >Login</button>
