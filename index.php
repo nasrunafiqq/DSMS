@@ -21,5 +21,5 @@ switch ($controller) {
 
 
 //hello
-
+//test
 ?>
